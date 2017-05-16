@@ -17,7 +17,9 @@
 - kg config -u 'username' -p 'password' -c 'painter-by-numbers'
 
 ## Pull the data
+- kg download -f 'all_data_info.csv.zip'
 - kg download -f 'train_1.zip'
+- unzip all_data_info.csv.zip
 - unzip train_1.zip
 
 
