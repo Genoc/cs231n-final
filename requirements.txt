@@ -61,5 +61,6 @@ six==1.10.0
 stevedore==1.21.0
 terminado==0.5
 torch==0.1.12.post2
+torchvision==0.1.8
 tornado==4.3
 traitlets==4.0.0
